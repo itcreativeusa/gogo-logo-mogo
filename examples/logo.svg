@@ -8,7 +8,8 @@
     }
     </style>
    
-    <rect x="50" y="0" width="200" height="200" fill="red" /><text x="150" y="120" fill="green" text-anchor="middle"  class="heavy">fff</text></svg> 
+     <circle cx="10" cy="10" r="200" 
+   fill="red" /><text x="150" y="120" fill="olive" text-anchor="middle"  class="heavy">ddd</text></svg> 
     </body>
   </html>
   

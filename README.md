@@ -8,7 +8,7 @@ https://github.com/itcreativeusa/gogo-logo-mogo
 Youtube video guide
 https://youtu.be/-bySQ48sPB8
 
-This gogo-logo-mogo is Node.js command-line application that takes in user input to generate a logo and save it as an [SVG file]. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a `.svg` file.
+This gogo-logo-mogo is Node.js command-line application that takes user input to generate a logo and save it as an [SVG file]. The application prompts the user to select a color, shape and text for the logo, and save the generated SVG to a `.svg` file.
 It was created as a bootcamp everyweek student challege.
 
 
@@ -19,6 +19,7 @@ It was created as a bootcamp everyweek student challege.
 - [Usage](#usage)
 - [Requirements](#requirements)
 - [Credits](#credits)
+- [Tests](#tests)
 - [License](#license)
 
 ## Installation
@@ -40,13 +41,18 @@ Simply add text to the text field and press save. after reloading the page, the 
  
 File `logo.svg` located in a root folder. 
  
-Screenshot located in `utils/img` folder
+Screenshot located in `img` folder
 
-![gogo-logo-mogo](utils/img/screenshot.png)
+![gogo-logo-mogo](img/screenshot.png)
 
 ## Credits
  
- Starter code in files provided by Berkeley Bootcamp for studying purposes.
+Starter code in files provided by Berkeley Bootcamp for studying purposes.
+ 
+## Tests
+Tests for classes : Circle, Triangle, Square included. Tests located in folder `tests`
+Run `npm test` to see PASS all the tests
+
 
 ## License
 

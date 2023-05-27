@@ -1,14 +1,14 @@
 <!DOCTYPE html>
   <html lang="en">
   <body>
-    <svg width="660" height="660" version="1.1" xmlns="http://www.w3.org/2000/svg"> 
+    <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg"> 
     <style>
     .heavy {
-    font:bold 200px sans-serif;
+    font:bold 100px sans-serif;
     }
     </style>
    
-    <rect x="130" y="600" width="300" height="300" fill="magenta" /><text x="130" y="400" fill="pink" class="heavy">MMM</text></svg> 
+    <rect x="50" y="0" width="200" height="200" fill="red" /><text x="150" y="120" fill="green" text-anchor="middle"  class="heavy">fff</text></svg> 
     </body>
   </html>
   

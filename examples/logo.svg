@@ -4,6 +4,6 @@
     .heavy {
     font:bold 60px sans-serif;
     }
-    </style><rect x="50" y="0" width="200" height="200" fill="green"/>
- <text x="150" y="100" fill="red" text-anchor="middle" alignment-baseline="middle" class="heavy">npm</text></svg> 
+    </style><circle cx="150" cy="100" r="100" fill="green"/>
+ <text x="150" y="100" fill="fink" text-anchor="middle" alignment-baseline="middle" class="heavy">roo</text></svg> 
   

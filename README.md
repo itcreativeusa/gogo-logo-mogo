@@ -6,7 +6,7 @@ Github link
 https://github.com/itcreativeusa/gogo-logo-mogo
 
 Youtube video guide
-https://youtu.be/-bySQ48sPB8
+https://youtu.be/-Cf7D6irPfY
 
 This gogo-logo-mogo is Node.js command-line application that takes user input to generate a logo and save it as an [SVG file]. The application prompts the user to select a color, shape and text for the logo, and save the generated SVG to a `.svg` file.
 It was created as a bootcamp everyweek student challege.

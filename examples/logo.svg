@@ -1,15 +1,10 @@
-<!DOCTYPE html>
-  <html lang="en">
-  <body>
+
     <svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg"> 
     <style>
     .heavy {
-    font:bold 100px sans-serif;
+    font:bold 60px sans-serif;
     }
     </style>
-   
-     <circle cx="10" cy="10" r="200" 
-   fill="red" /><text x="150" y="120" fill="olive" text-anchor="middle"  class="heavy">ddd</text></svg> 
-    </body>
-  </html>
+    <polygon points="150 0, 270 170, 30 170" fill="green" />
+ <text x="150" y="100" fill="violet" text-anchor="middle" alignment-baseline="middle" class="heavy">fff</text></svg> 
   

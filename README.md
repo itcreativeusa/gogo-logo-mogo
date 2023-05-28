@@ -47,7 +47,7 @@ Screenshot located in `img` folder
 
 ## Credits
  
-Starter code in files provided by Berkeley Bootcamp for studying purposes.
+Some code in file `component.js` was taken from Mini-Project provided by Berkeley Bootcamp for studying purposes.
  
 ## Tests
 Tests for classes : Circle, Triangle, Square included. Tests located in folder `tests`

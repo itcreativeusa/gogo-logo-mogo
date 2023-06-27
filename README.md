@@ -8,8 +8,8 @@ https://github.com/itcreativeusa/gogo-logo-mogo
 Youtube video guide
 https://youtu.be/-Cf7D6irPfY
 
-This gogo-logo-mogo is Node.js command-line application that takes user input to generate a logo and save it as an [SVG file]. The application prompts the user to select a color, shape and text for the logo, and save the generated SVG to a `.svg` file.
-It was created as a bootcamp everyweek student challege.
+This gogo-logo-mogo is Node.js command-line application that takes user input to generate a logo and save it as an [SVG file]. The application prompts the user to select a color, shape, and text for the logo and save the generated SVG to a `.svg` file.
+It was created as a boot camp every week student challenge.
 
 
 
@@ -24,7 +24,7 @@ It was created as a bootcamp everyweek student challege.
 
 ## Installation
 
-This applicartion must be installed on computer. Open your computer’s command prompt (Windows) or terminal (macOS/Linux) and run the application
+This application must be installed on the computer. Open your computer’s command prompt (Windows) or terminal (macOS/Linux) and run the application
  
 ## Requirements
 
@@ -37,21 +37,21 @@ Follow the prompt questions.
 The file readme.md will be generated in a root folder
 Generated logo saves to the folder`/examples` . The file logo.svg has a size 300x200 pixel
 
-Simply add text to the text field and press save. after reloading the page, the text will be available.
+Simply add text to the text field and press save. After reloading the page, the text will be available.
  
-File `logo.svg` located in a root folder. 
+File `logo.svg` is located in a root folder. 
  
-Screenshot located in `img` folder
+Screenshot is located in `img` folder
 
 ![gogo-logo-mogo](img/screenshot.png)
 
 ## Credits
  
-Some code in file `component.js` was taken from Mini-Project provided by Berkeley Bootcamp for studying purposes.
+Some code in the file `component.js` was taken from Mini-Project provided by Berkeley Bootcamp for studying purposes.
  
 ## Tests
-Tests for classes : Circle, Triangle, Square included. Tests located in folder `tests`
-Run `npm test` to see PASS all the tests
+Tests for classes: Circle, Triangle, and Square included. Tests located in folder `tests`
+Run `npm test` to see PASS all the tests.
 
 
 ## License
